@@ -12,6 +12,7 @@
             "think\\filesystem\\driver\\": "src/"
         }
     },
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "yangweijie",
